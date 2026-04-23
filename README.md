@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**PraveenPoojary/PraveenPoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Praveen, a QA Automation Engineer passionate about building reliable and scalable test automation frameworks.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 Currently working on Selenium & Appium automation frameworks  
+- 🌱 Learning advanced Python, API testing & CI/CD integration  
+- 👯 Looking to collaborate on automation testing projects  
+- 💬 Ask me about Selenium, Appium, Pytest, Python  
+- 📫 How to reach me:  praveen.poojary232@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- Automation: Selenium, Appium  
+- Language: Python  
+- Framework: Pytest  
+- Tools: Git, Jenkins, Postman, Jmeter, SQL 
+- Concepts: Page Object Model, Data-Driven Testing, CI/CD  
+
+### 📌 Projects
+- Swag Labs Automation Framework (Web & Mobile)
+- End-to-End Test Automation using Pytest  
+
+### ⚡ Fun Fact
+I enjoy breaking applications to make them stronger 😄
